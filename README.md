@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **Ruby on Rails, JS and Stimulus.**
 
-- 👨‍💻 All of my projects are available at [at my Github account.](at my Github account.)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/svetoslavpachev">💻</a>
+
 
 - 💬 Ask me about **Rails.**
 
